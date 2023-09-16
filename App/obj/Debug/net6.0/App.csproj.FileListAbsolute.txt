@@ -1,0 +1,15 @@
+D:\C#\ExtremeProgramming\XP-201\App\bin\Debug\net6.0\App.exe
+D:\C#\ExtremeProgramming\XP-201\App\bin\Debug\net6.0\App.deps.json
+D:\C#\ExtremeProgramming\XP-201\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\C#\ExtremeProgramming\XP-201\App\bin\Debug\net6.0\App.dll
+D:\C#\ExtremeProgramming\XP-201\App\bin\Debug\net6.0\App.pdb
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.dll
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\refint\App.dll
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.pdb
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\C#\ExtremeProgramming\XP-201\App\obj\Debug\net6.0\ref\App.dll
